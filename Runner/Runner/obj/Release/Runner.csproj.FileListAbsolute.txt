@@ -1,0 +1,11 @@
+E:\ExampleWork\Runner\Runner\bin\Release\Runner.exe
+E:\ExampleWork\Runner\Runner\bin\Release\Runner.pdb
+E:\ExampleWork\Runner\Runner\bin\Release\SumOfMultiple.dll
+E:\ExampleWork\Runner\Runner\bin\Release\SumOfMultiple.pdb
+E:\ExampleWork\Runner\Runner\obj\Release\Runner.csprojAssemblyReference.cache
+E:\ExampleWork\Runner\Runner\obj\Release\Runner.csproj.CoreCompileInputs.cache
+E:\ExampleWork\Runner\Runner\obj\Release\Runner.csproj.CopyComplete
+E:\ExampleWork\Runner\Runner\obj\Release\Runner.exe
+E:\ExampleWork\Runner\Runner\obj\Release\Runner.pdb
+E:\ExampleWork\Runner\Runner\bin\Release\SequenceAnalysis.dll
+E:\ExampleWork\Runner\Runner\bin\Release\SequenceAnalysis.pdb

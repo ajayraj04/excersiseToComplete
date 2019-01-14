@@ -1,0 +1,6 @@
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\bin\Release\SumOfMultiple.dll
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\bin\Release\SumOfMultiple.pdb
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\obj\Release\SumOfMultiple.csprojAssemblyReference.cache
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\obj\Release\SumOfMultiple.csproj.CoreCompileInputs.cache
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\obj\Release\SumOfMultiple.dll
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\obj\Release\SumOfMultiple.pdb

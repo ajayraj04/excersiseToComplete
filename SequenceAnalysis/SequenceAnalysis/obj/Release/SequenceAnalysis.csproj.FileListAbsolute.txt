@@ -1,0 +1,10 @@
+C:\Users\ajayraj\Documents\Visual Studio 2017\Projects\SequenceAnalysis\SequenceAnalysis\bin\Release\SequenceAnalysis.dll
+C:\Users\ajayraj\Documents\Visual Studio 2017\Projects\SequenceAnalysis\SequenceAnalysis\bin\Release\SequenceAnalysis.pdb
+C:\Users\ajayraj\Documents\Visual Studio 2017\Projects\SequenceAnalysis\SequenceAnalysis\obj\Release\SequenceAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\ajayraj\Documents\Visual Studio 2017\Projects\SequenceAnalysis\SequenceAnalysis\obj\Release\SequenceAnalysis.dll
+C:\Users\ajayraj\Documents\Visual Studio 2017\Projects\SequenceAnalysis\SequenceAnalysis\obj\Release\SequenceAnalysis.pdb
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\bin\Release\SequenceAnalysis.dll
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\bin\Release\SequenceAnalysis.pdb
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\obj\Release\SequenceAnalysis.csproj.CoreCompileInputs.cache
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\obj\Release\SequenceAnalysis.dll
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\obj\Release\SequenceAnalysis.pdb

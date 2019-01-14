@@ -1,0 +1,5 @@
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\bin\Debug\SumOfMultiple.dll
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\bin\Debug\SumOfMultiple.pdb
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\obj\Debug\SumOfMultiple.csproj.CoreCompileInputs.cache
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\obj\Debug\SumOfMultiple.dll
+E:\ExampleWork\SumOfMultiple\SumOfMultiple\obj\Debug\SumOfMultiple.pdb

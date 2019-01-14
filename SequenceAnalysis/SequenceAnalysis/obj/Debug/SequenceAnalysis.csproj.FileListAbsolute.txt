@@ -1,0 +1,5 @@
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\bin\Debug\SequenceAnalysis.dll
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\bin\Debug\SequenceAnalysis.pdb
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\obj\Debug\SequenceAnalysis.csproj.CoreCompileInputs.cache
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\obj\Debug\SequenceAnalysis.dll
+E:\ExampleWork\SequenceAnalysis\SequenceAnalysis\obj\Debug\SequenceAnalysis.pdb
